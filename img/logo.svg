@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L50 0L50 50L0 50L0 0Z" id="path_1" />
+    <path d="M0 0L75 0L75 75L0 75L0 0Z" id="path_2" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <clipPath id="mask_2">
+      <use xlink:href="#path_2" />
+    </clipPath>
+  </defs>
+  <g id="Delete-icon">
+    <path d="M0 0L50 0L50 50L0 50L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M2.9375 0L0.09375 2.84375L15.9375 18.6875L0 34.6563L2.8125 37.4688L18.7813 21.5313L34.7188 37.4688L37.5625 34.625L21.625 18.6875L37.4688 2.84375L34.625 0L18.7813 15.8438L2.9375 0Z" transform="translate(6.21875 6.3125)" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+  <g id="icons8_music" transform="translate(12.999939 12.5)">
+    <path d="M0 0L75 0L75 75L0 75L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_2)">
+      <path d="M40.557 4.614C29.8875 4.614 32.511 0 22.5 0C20.1 0 19.5 1.5 19.5 3L19.5 34.5C19.5 37.821 17.952 40.5 12 40.5C3.5085 40.5 0 42.696 0 48C0 51.5745 0.7335 57 11.904 57C22.2825 57 22.5 49.023 22.5 45C22.5 43.4595 22.5 39.1455 22.5 34.5L22.5 16.5C22.5075 14.4675 22.8 13.5 24 13.5C31.707 13.5 29.8065 18 40.5 18C40.5 18 43.5 18 43.5 15.4515C43.5 11.619 43.5 8.907 43.5 7.452C43.5 5.1525 42.468 4.614 40.557 4.614L40.557 4.614Z" transform="translate(18 9)" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
